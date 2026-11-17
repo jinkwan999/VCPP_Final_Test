@@ -27,9 +27,15 @@
     <ClInclude Include="BlockBlast.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="GameBoardPaint.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BlockBlast.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GameBoardPaint.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
